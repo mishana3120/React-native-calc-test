@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "calc",
-    "slug": "calc",
+    "name": "calc-test-skorik",
+    "slug": "calc-test-skorik",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/mishana3120/React-native-calc-test"
   }
 }
